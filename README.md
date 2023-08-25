@@ -8,6 +8,7 @@ Aplikasi Mass Email Sender (Bulk Mailing)
 
 1. Buka file My Sender 2022.exe
 2. Masukan Konfigurasi SMTP yang anda miliki
+   
 ![SMTP FORM](https://i.ibb.co/JFnxkbY/smtp.png)
 ```
 Atau gunakan Konfigurasi SMTP Office365 berikut ini
@@ -19,6 +20,7 @@ Username: ksmproject@b3mp-store.com
 Password: AdeArman123
 ```
 3. Isi From Name dan From Email
+   
 ![From Address](https://i.ibb.co/VCqgxFS/form.png)
 ```
 From Name : KSM PROJECT (atau bebas terserah anda)
